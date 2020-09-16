@@ -1,0 +1,19 @@
+3. Diketahui suatu balok memiliki ukuran sebagai berikut;
+-Panjangnya 20
+-Lebarnya 8
+-Tingginya 5
+
+Algoritma perhitungan volume balok tersebut?
+Step 1 Mendeklarasikan volume, panjang, lebar, dan tinggi
+Step 2 Input panjang=20, lebar=8, tinggi=5
+Step 3 Menghitung volume=p x l x t
+Step 4 Menampilkan volume
+
+Pseudocode:
+deklarasi
+var volume, panjang, lebar, tinggi
+panjang <- 20
+lebar <- 8
+tinggi <- 5
+volume = p x l x t
+write(volume)
